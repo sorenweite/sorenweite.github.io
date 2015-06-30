@@ -27,13 +27,13 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: dribbble
-    url:
+    url: https://dribbble.com/sorenweite
   - title: facebook
-    url:
+    url: https://www.facebook.com/profile.php?id=100009447383466
   - title: twitter
-    url: 
+    url: https://twitter.com/welllately
   - title: instagram
-    url: 
+    url: https://instagram.com/sorenweite/
   - title: tumblr
     url: 
     
